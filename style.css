@@ -1,0 +1,45 @@
+.menu {
+    display:flex;
+    justify-content: space-between;
+    background-color:black;
+    padding:50 px;
+    font-size: 20px;
+    font-weight: 400;
+    color:rgb(253, 253, 253)
+}
+body {
+    margin: opx;
+    background-color: whitesmoke;
+}
+.grid {
+  display:flex;
+  margin-left: 10px;
+  padding: 10px;
+}
+
+.grid img {
+    border: 2px solid black;
+    border-radius:50px;
+}
+
+.origami {
+ 
+    border-radius: 20px;
+    background-color:aqua;
+    margin-left: 50px;
+    padding: 30px;
+    width: 310 px;
+
+}
+.bodying {
+    background-color:rgb(3, 0, 0);
+    font-size: 20px;
+    font-weight: 300;
+    color:whitesmoke
+}
+
+ul,p{
+    font-size: 20px;
+    font-weight: 500;
+    color: black
+}
